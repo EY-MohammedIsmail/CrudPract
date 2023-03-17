@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "firstName": "hell",
+      "lastName": "Lucifer",
+      "email": "lucifer@gmail.com",
+      "mobile": "7867867868",
+      "salary": "900000"
+    },
+    {
+      "id": 2,
+      "firstName": "Umer",
+      "lastName": "Farooq",
+      "email": "umer@gmail.com",
+      "mobile": "7867867867",
+      "salary": "80000"
+    },
+    {
+      "id": 3,
+      "firstName": "shraddha",
+      "lastName": "shetty",
+      "email": "shradha@gmail.com",
+      "mobile": "8978978978",
+      "salary": "90000"
+    }
+  ]
+}
